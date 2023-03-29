@@ -1,0 +1,1 @@
+This folder is a placholder for the defaul azd configuration used for templates in this org.
