@@ -1,0 +1,7 @@
+{
+    "name": "Sample Developer Platform Template",
+    "description": "This is a sample Developer Platform template.",
+    "iconName": "azure",
+    "categories": [],
+    "filePatterns": []
+}
